@@ -26,6 +26,7 @@ class BackendDeveloper:
             "languages": ["Python", "C++", "SQL", "HTML", "CSS"],
             "frameworks": ["FastAPI", "OpenCV", "YOLOv5"],
             "databases": ["SQLite", "MySQL"],
+            "data_and_bi": ["Power BI", "Excel"],
             "tools": ["Git", "GitHub", "Docker", "Render", "Poetry", "AWS"]
         }
 

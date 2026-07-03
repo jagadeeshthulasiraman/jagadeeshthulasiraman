@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;FastAPI+%7C+REST+APIs+%7C+Real-Time+Systems;YOLOv5+%2B+OpenCV+%7C+Computer+Vision;Ex-Intern+%40+TATA+Group+Companies" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=aswath_tamilan&label=Profile%20Views&color=70A5FD&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=jagadeeshthulasiraman&label=Profile%20Views&color=70A5FD&style=flat-square" alt="profile views"/>
 
 </div>
 
@@ -60,6 +60,10 @@ print(me.motto())
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
+**Data & BI**
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
 **Tools**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -70,26 +74,26 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jagadeeshthulasiraman&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshthulasiraman&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="34%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0D1117&border=0D1117&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=jagadeeshthulasiraman&theme=tokyonight&background=0D1117&border=0D1117&hide_border=true" width="70%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagadeeshthulasiraman&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="90%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jagadeeshthulasiraman&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" width="90%"/>
 
 </div>
 
@@ -132,9 +136,10 @@ print(me.motto())
 
 | Project | Stack | Description | Impact |
 |---|---|---|---|
-| **[Accident Detection & Alert System](https://github.com/aswath_tamilan)** | YOLOv5, OpenCV, SQLite, SMTP | Real-time accident detection on live CCTV feeds with automated emergency alerting | 92%+ detection accuracy, <2s alert latency |
-| **[Real-Time Chat Application](https://github.com/aswath_tamilan)** | FastAPI, WebSockets, JWT, SQLite | Full-stack chat system with concurrent messaging, auth & file uploads, deployed on Render | Multi-environment (dev/prod) deployment |
-| **[PubMed Research Paper Retrieval Tool](https://github.com/aswath_tamilan)** | Python, PubMed API, CSV | CLI tool to fetch biotech/pharma research with configurable filters | ~80% reduction in manual research time |
+| **[Accident Detection & Alert System](https://github.com/jagadeeshthulasiraman)** | YOLOv5, OpenCV, SQLite, SMTP | Real-time accident detection on live CCTV feeds with automated emergency alerting | 92%+ detection accuracy, <2s alert latency |
+| **[Real-Time Chat Application](https://github.com/jagadeeshthulasiraman)** | FastAPI, WebSockets, JWT, SQLite | Full-stack chat system with concurrent messaging, auth & file uploads, deployed on Render | Multi-environment (dev/prod) deployment |
+| **[PubMed Research Paper Retrieval Tool](https://github.com/jagadeeshthulasiraman)** | Python, PubMed API, CSV | CLI tool to fetch biotech/pharma research with configurable filters | ~80% reduction in manual research time |
+| **[Power BI Analyst Portfolio](https://github.com/jagadeeshthulasiraman)** | Power BI, DAX, Excel | Portfolio of interactive Power BI dashboards covering business & payroll analytics | Multiple published dashboards |
 
 </div>
 
@@ -146,6 +151,8 @@ print(me.motto())
 
 | Certification | Issuer | Date |
 |---|---|---|
+| Investment Banking Job Simulation | J.P. Morgan (via Forage) | Jun 2026 |
+| Data Analytics Job Simulation | Deloitte (via Forage) | Jun 2026 |
 | REST API | HackerRank | Apr 2026 |
 | Python & SQL | PySpiders | Feb 2026 |
 | SQL | HackerRank | Nov 2025 |
@@ -172,8 +179,8 @@ print(me.motto())
 <div align="center">
 
 <a href="mailto:jagadeeshraman3023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aswath-tamilan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/aswath_tamilan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jagadeesh-thulasiraman-a1bb1133a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/jagadeeshthulasiraman"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
